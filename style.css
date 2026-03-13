@@ -65,7 +65,7 @@ nav {
 /* --- Hero Section (Tampilan Awal) Styling --- */
 .hero-section {
     /* Mengatur Image 4 (IMG_2824.jpg) sebagai background */
-    background: url('IMG_2824.JPG') no-repeat center center/cover;
+    background: url('IMG_2824.jpg') no-repeat center center/cover;
     height: 100vh; /* Tinggi penuh viewport */
     display: flex;
     justify-content: center;
@@ -678,4 +678,5 @@ nav {
     .project-img {
         height: 350px; 
     }
+
 }
